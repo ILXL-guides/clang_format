@@ -16,6 +16,7 @@
 # Usage
 
 1. In `Atom` choose `Packages` -> `Clang Format` -> `Format`
+
    This command can also be issued using the shortcut `<shift><K>`
    
    ![Clang Format](resources/format-usage.png)
