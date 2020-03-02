@@ -2,9 +2,9 @@
 
 # Installation
 1. From a `Terminal` window, type `sudo atom` in order to open `Atom` with administrator permissions.
-```
-sudo atom
-```
+   ```
+   sudo atom
+   ```
 1. In `Atom` choose `Packages` -> `Settings View` -> `Install Packages/Themes`
 ![Setting shared clipboard to bidirectional](resources/clangformat.png)
 
