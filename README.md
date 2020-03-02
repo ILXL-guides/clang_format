@@ -1,6 +1,7 @@
 # clang-format
 
 # Installation
+1. Close all open Atom windows.
 1. Open Atom with the right permissions.
     - If you are using Virtual Box: From a `Terminal` window, type `sudo atom` in order to open `Atom` with administrator permissions. 
    ```
