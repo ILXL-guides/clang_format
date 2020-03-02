@@ -6,13 +6,16 @@
    sudo atom
    ```
 1. In `Atom` choose `Packages` -> `Settings View` -> `Install Packages/Themes`
-![Setting Packages](resources/package-settings.png)
+
+   ![Setting Packages](resources/package-settings.png)
 
 1. Type `clang-format` in the `Search` window, and select `Install` on the package `clang-format 2.0.8`
-![Install Package](resources/install-package.png)
+
+   ![Install Package](resources/install-package.png)
 
 # Usage
 
 1. In `Atom` choose `Packages` -> `Clang Format` -> `Format`
    This command can also be issued using the shortcut `<shift><K>`
-![Clang Format](resources/format-usage.png)
+   
+   ![Clang Format](resources/format-usage.png)
