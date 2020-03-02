@@ -1,9 +1,14 @@
 # clang-format
 
 # Installation
-1. From a `Terminal` window, type `sudo atom` in order to open `Atom` with administrator permissions.
+1. Open Atom with the right permissions.
+    - If you are using Virtual Box: From a `Terminal` window, type `sudo atom` in order to open `Atom` with administrator permissions. 
    ```
    sudo atom
+   ```
+    - If you are using a machine in a CSUF lab: From a `Terminal` window, type `atom`.
+   ```
+   atom
    ```
 1. In `Atom` choose `Packages` -> `Settings View` -> `Install Packages/Themes`
 
@@ -17,6 +22,6 @@
 
 1. In `Atom` choose `Packages` -> `Clang Format` -> `Format`
 
-   This command can also be issued using the shortcut `<shift><K>`
+   This command can also be issued using the shortcut <kbd>Shift</kbd> + <kbd>K</kbd>.
    
    ![Clang Format](resources/format-usage.png)
